@@ -1,14 +1,12 @@
-# Tiffany's Minimalistic Portfolio (https://tyffic.al)
+# Audrey's Portfolio (https://audreyl.in) 
+
+## Forked from https://github.com/tyffical/tyffic.al
 
 Important links
 
-- LinkedIn: https://linkedin.com/in/tyffical
+- LinkedIn: https://www.linkedin.com/in/audreylin03/
 
-- Github: https://github.com/tyffical
-
-- Portfolio Website (made using Bootstrap): https://www.mit.edu/~acetiff
-
-- Bio.link (has links to everything, including socials): https://bio.link/tyffical
+- Github: https://github.com/audreylin03
 
 - Resume: contact me on LinkedIn for my resume
 
